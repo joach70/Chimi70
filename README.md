@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chimi70
+- 👋 Hi, I’m @Joachim70
 - 👀 I’m interested in programming, digital painting
 - 🌱 I’m currently learning godot
 - 💞️ I’m looking to collaborate on ...
